@@ -2,4 +2,6 @@
 
 ## Specification
 
-..* Install the python 3.6 for executing the projet.
+- Install the python 3.6 for executing the projet smoothly.
+- Install PyQT. It is a front end desiner.
+-

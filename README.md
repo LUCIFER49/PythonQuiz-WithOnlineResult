@@ -17,5 +17,6 @@
 
 ## Communication
 
+- [Python 3.6](https://www.python.org/downloads/release/python-360/)
 - [Stack Overflow](https://stackoverflow.com)
 - [SQL Query](https://www.w3schools.com/sql/default.asp)
